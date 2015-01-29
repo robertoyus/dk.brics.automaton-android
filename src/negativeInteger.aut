@@ -1,0 +1,29 @@
+2
+true
+36
+null
+false
+false
+false
+9369
+states
+state 9367 0 140232 true
+transitions
+transition 9365 9 10
+transition 9365 13 13
+transition 9367 48 57
+transition 9365 32 32
+state 9369 1 140232 false
+transitions
+transition 9369 9 10
+transition 9369 13 13
+transition 9369 32 32
+transition 9366 45 45
+state 9366 2 140232 false
+transitions
+transition 9367 49 57
+state 9365 3 140232 true
+transitions
+transition 9365 9 10
+transition 9365 13 13
+transition 9365 32 32

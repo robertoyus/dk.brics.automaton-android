@@ -1,0 +1,18 @@
+2
+true
+16
+null
+false
+false
+false
+138634
+states
+state 138634 0 140232 false
+transitions
+transition 138632 8249 8249
+transition 138632 171 171
+transition 138632 8216 8216
+transition 138632 8223 8223
+transition 138632 8219 8220
+state 138632 1 140232 true
+transitions

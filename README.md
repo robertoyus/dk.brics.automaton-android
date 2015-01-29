@@ -1,6 +1,6 @@
-# dk.bricks.automaton-android
+# dk.brics.automaton-android
 
-This is an Android port of the dk.bricks.automaton 1.11-8 finite-state automata and regular expressions for Java  http://www.brics.dk/automaton/
+This is an Android port of the dk.brics.automaton 1.11-8 finite-state automata and regular expressions for Java  http://www.brics.dk/automaton/
 
 
 # License

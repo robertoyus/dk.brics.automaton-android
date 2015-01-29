@@ -1,0 +1,35 @@
+2
+true
+48
+null
+false
+false
+false
+8751
+states
+state 8751 0 140232 true
+transitions
+transition 8749 65 70
+transition 8751 9 10
+transition 8751 13 13
+transition 8749 97 102
+transition 8749 48 57
+transition 8751 32 32
+state 8750 1 140232 true
+transitions
+transition 8750 9 10
+transition 8750 13 13
+transition 8750 32 32
+state 8749 2 140232 false
+transitions
+transition 8747 65 70
+transition 8747 97 102
+transition 8747 48 57
+state 8747 3 140232 true
+transitions
+transition 8749 65 70
+transition 8750 9 10
+transition 8750 13 13
+transition 8749 97 102
+transition 8749 48 57
+transition 8750 32 32

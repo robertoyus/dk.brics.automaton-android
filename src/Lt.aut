@@ -1,0 +1,23 @@
+2
+true
+26
+null
+false
+false
+false
+106350
+states
+state 106350 0 140232 false
+transitions
+transition 106348 8124 8124
+transition 106348 498 498
+transition 106348 8188 8188
+transition 106348 8072 8079
+transition 106348 453 453
+transition 106348 8140 8140
+transition 106348 456 456
+transition 106348 8088 8095
+transition 106348 459 459
+transition 106348 8104 8111
+state 106348 1 140232 true
+transitions

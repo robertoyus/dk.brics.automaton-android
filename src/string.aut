@@ -1,0 +1,19 @@
+2
+true
+18
+null
+false
+false
+false
+27296
+states
+state 27296 0 140232 true
+transitions
+transition 27296 9 10
+transition 27296 32 55295
+transition 27298 55296 56319
+transition 27296 13 13
+transition 27296 57344 65533
+state 27298 1 140232 false
+transitions
+transition 27296 56320 57343

@@ -1,0 +1,25 @@
+2
+true
+28
+null
+false
+false
+false
+84801
+states
+state 84800 0 140232 false
+transitions
+transition 84798 57341 57341
+state 84801 1 140232 false
+transitions
+transition 84798 57344 57344
+transition 84800 56319 56319
+transition 84798 63743 63743
+transition 84800 56255 56255
+transition 84799 56256 56256
+transition 84799 56192 56192
+state 84799 2 140232 false
+transitions
+transition 84798 56320 56320
+state 84798 3 140232 true
+transitions

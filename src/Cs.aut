@@ -1,0 +1,17 @@
+2
+true
+14
+null
+false
+false
+false
+28807
+states
+state 28805 0 140232 true
+transitions
+state 28807 1 140232 false
+transitions
+transition 28805 56319 56320
+transition 28805 55296 55296
+transition 28805 57343 57343
+transition 28805 56191 56192

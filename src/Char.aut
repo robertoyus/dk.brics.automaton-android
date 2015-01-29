@@ -1,0 +1,21 @@
+2
+true
+21
+null
+false
+false
+false
+1583
+states
+state 1583 0 140232 false
+transitions
+transition 1581 9 10
+transition 1581 32 55295
+transition 1584 55296 56319
+transition 1581 13 13
+transition 1581 57344 65533
+state 1581 1 140232 true
+transitions
+state 1584 2 140232 false
+transitions
+transition 1581 56320 57343

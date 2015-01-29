@@ -1,0 +1,23 @@
+2
+true
+26
+null
+false
+false
+false
+27774
+states
+state 27772 0 140232 true
+transitions
+state 27774 1 140232 false
+transitions
+transition 27772 65504 65505
+transition 27772 3647 3647
+transition 27772 8352 8367
+transition 27772 65129 65129
+transition 27772 2546 2547
+transition 27772 162 165
+transition 27772 65284 65284
+transition 27772 6107 6107
+transition 27772 65509 65510
+transition 27772 36 36

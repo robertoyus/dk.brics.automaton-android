@@ -1,0 +1,20 @@
+2
+true
+20
+null
+false
+false
+false
+100662
+states
+state 100660 0 140232 true
+transitions
+state 100662 1 140232 false
+transitions
+transition 100660 160 160
+transition 100660 8192 8203
+transition 100660 32 32
+transition 100660 8232 8233
+transition 100660 8239 8239
+transition 100660 5760 5760
+transition 100660 12288 12288

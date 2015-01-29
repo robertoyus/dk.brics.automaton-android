@@ -1,0 +1,23 @@
+2
+false
+0
+null
+false
+false
+false
+27597
+states
+state 27594 0 140232 true
+transitions
+state 27590 0 140232 true
+transitions
+state 27587 0 140232 false
+transitions
+transition 27590 56320 57343
+state 27596 0 140232 false
+transitions
+transition 27594 56320 57046
+state 27597 0 140232 false
+transitions
+transition 27587 55360 55400
+transition 27596 55401 55401

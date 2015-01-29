@@ -1,0 +1,38 @@
+2
+false
+0
+null
+false
+false
+false
+27640
+states
+state 27618 0 140232 true
+transitions
+state 27612 0 140232 true
+transitions
+state 27638 0 140232 false
+transitions
+transition 27636 56320 57341
+state 27629 0 140232 false
+transitions
+transition 27632 56320 57343
+state 27624 0 140232 false
+transitions
+transition 27622 56320 57341
+state 27640 0 140232 false
+transitions
+transition 27638 56319 56319
+transition 27624 56255 56255
+transition 27612 57344 63743
+transition 27629 56256 56318
+transition 27615 56192 56254
+state 27632 0 140232 true
+transitions
+state 27615 0 140232 false
+transitions
+transition 27618 56320 57343
+state 27622 0 140232 true
+transitions
+state 27636 0 140232 true
+transitions

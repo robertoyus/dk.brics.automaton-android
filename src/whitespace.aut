@@ -1,0 +1,14 @@
+2
+true
+9
+null
+false
+false
+false
+10
+states
+state 10 0 140232 true
+transitions
+transition 10 9 10
+transition 10 13 13
+transition 10 32 32
